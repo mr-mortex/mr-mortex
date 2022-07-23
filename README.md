@@ -1,4 +1,5 @@
 # MORTEX
+![Screenshot](imagen.png.png)
 
 Passionate about crypto and computer science in general, wants to learn to program (fullstack)
 
