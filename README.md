@@ -1,7 +1,7 @@
 # MORTEX
-![Screenshot](https://github.com/mr-mortex/mr-mortex/blob/main/pepex-removebg-preview.png)
 
-Passionate about crypto and computer science in general, wants to learn to program (fullstack)
+<img width="40%" align=center src=https://github.com/mr-mortex/mr-mortex/blob/4b6c9a8df1d28c646cc28f16e6822caae2763db0/pepe.png />
+
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=mr-mortex&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mr-mortex/github-readme-stats)
 
