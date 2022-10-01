@@ -1,5 +1,5 @@
 # MORTEX
-![Screenshot](imagen.png.png)
+![Screenshot](https://github.com/mr-mortex/mr-mortex/blob/main/pepex-removebg-preview.png)
 
 Passionate about crypto and computer science in general, wants to learn to program (fullstack)
 
