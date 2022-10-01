@@ -8,3 +8,4 @@ Passionate about crypto and computer science in general, wants to learn to progr
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mortex&layout=compact&langs_count=8&theme=cobalt)](https://github.com/mr-mortex/github-readme-stats)
+
