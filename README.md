@@ -4,4 +4,4 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-mortex&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mr.Mortex github stats" /></a> 
 
-<a href="https://github.com/mr-mortex/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mortex&layout=compact&theme=buefy&hide_border=true" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mortex&langs_count=8)](https://github.com/mr-mortex/github-readme-stats)
