@@ -4,4 +4,4 @@
 
 ![Mr.Mortex GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-mortex&count_private=true&&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mortex&langs_count=8count_private=true&&theme=tokyonight)](https://github.com/mr-mortex/github-readme-stats)
+
